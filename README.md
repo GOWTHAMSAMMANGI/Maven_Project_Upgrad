@@ -134,7 +134,3 @@ The install goal will compile, test, and package your project’s code and then 
 + To run this project run the following command.
 
     `java -cp target/my-java-maven-0.1.0.jar hello.MyHelloWorld`
-
-### Project Video Link
----
-loom link: https://www.loom.com/share/697edee5d1c549f4aab374ed8e104e0c?sid=266cdeb9-d874-40d0-97d3-1e5b3b6f2ea5
